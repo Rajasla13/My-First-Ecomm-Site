@@ -1,3 +1,10 @@
 Welcome to My Ecomm site 
 This site going to give great offers to you 
 Today's  offer is BUy 1 Get 50% off
+
+
+This is the code for mobile app of my ecomm site 
+  {
+    Copy this code and use it 
+    to upload in play store, app store, windows market
+  }
